@@ -1,0 +1,615 @@
+epoch: 1 step: 1 loss: 1.176456093788147 train accuracy: 0.28125
+epoch: 1 step: 2 loss: 0.9617089629173279 train accuracy: 0.59375
+epoch: 1 step: 3 loss: 1.0805537700653076 train accuracy: 0.40625
+epoch: 1 step: 4 loss: 0.8953015208244324 train accuracy: 0.65625
+epoch: 1 step: 5 loss: 0.9253557324409485 train accuracy: 0.53125
+epoch: 1 step: 6 loss: 0.7819101810455322 train accuracy: 0.625
+epoch: 1 step: 7 loss: 0.9393832087516785 train accuracy: 0.53125
+epoch: 1 step: 8 loss: 0.9475269913673401 train accuracy: 0.53125
+epoch: 1 step: 9 loss: 1.0666224956512451 train accuracy: 0.5625
+epoch: 1 step: 10 loss: 0.8751564025878906 train accuracy: 0.5625
+validation accuracy: 0.65
+epoch: 1 step: 11 loss: 0.8016771078109741 train accuracy: 0.75
+epoch: 1 step: 12 loss: 0.9997367858886719 train accuracy: 0.59375
+epoch: 1 step: 13 loss: 0.9399292469024658 train accuracy: 0.5
+epoch: 1 step: 14 loss: 0.9672930836677551 train accuracy: 0.46875
+epoch: 1 step: 15 loss: 0.8709287047386169 train accuracy: 0.59375
+epoch: 1 step: 16 loss: 1.0657879114151 train accuracy: 0.5
+epoch: 1 step: 17 loss: 0.7707337737083435 train accuracy: 0.71875
+epoch: 1 step: 18 loss: 0.9628704190254211 train accuracy: 0.53125
+epoch: 1 step: 19 loss: 0.8372421264648438 train accuracy: 0.65625
+epoch: 1 step: 20 loss: 0.8409279584884644 train accuracy: 0.59375
+validation accuracy: 0.646
+epoch: 1 step: 21 loss: 0.846544623374939 train accuracy: 0.59375
+epoch: 1 step: 22 loss: 0.8068518042564392 train accuracy: 0.625
+epoch: 1 step: 23 loss: 0.9357181787490845 train accuracy: 0.5625
+epoch: 1 step: 24 loss: 0.8611255288124084 train accuracy: 0.59375
+epoch: 1 step: 25 loss: 0.9388907551765442 train accuracy: 0.53125
+epoch: 1 step: 26 loss: 0.777991533279419 train accuracy: 0.6875
+epoch: 1 step: 27 loss: 0.8993220925331116 train accuracy: 0.53125
+epoch: 1 step: 28 loss: 0.8026742935180664 train accuracy: 0.59375
+epoch: 1 step: 29 loss: 1.024794578552246 train accuracy: 0.5
+epoch: 1 step: 30 loss: 0.7499409914016724 train accuracy: 0.75
+validation accuracy: 0.67
+epoch: 1 step: 31 loss: 0.8869936466217041 train accuracy: 0.5
+epoch: 1 step: 32 loss: 0.7212944626808167 train accuracy: 0.75
+epoch: 1 step: 33 loss: 0.8968104124069214 train accuracy: 0.6875
+epoch: 1 step: 34 loss: 0.8544967174530029 train accuracy: 0.53125
+epoch: 1 step: 35 loss: 0.8118944764137268 train accuracy: 0.65625
+epoch: 1 step: 36 loss: 0.908697247505188 train accuracy: 0.59375
+epoch: 1 step: 37 loss: 0.6690784096717834 train accuracy: 0.65625
+epoch: 1 step: 38 loss: 0.7794307470321655 train accuracy: 0.5625
+epoch: 1 step: 39 loss: 0.5897110104560852 train accuracy: 0.71875
+epoch: 1 step: 40 loss: 0.5948851704597473 train accuracy: 0.75
+validation accuracy: 0.66
+epoch: 1 step: 41 loss: 0.8258945941925049 train accuracy: 0.71875
+epoch: 1 step: 42 loss: 0.6115816831588745 train accuracy: 0.71875
+epoch: 1 step: 43 loss: 0.6903874278068542 train accuracy: 0.65625
+epoch: 1 step: 44 loss: 0.8972234725952148 train accuracy: 0.46875
+epoch: 1 step: 45 loss: 0.6698984503746033 train accuracy: 0.8125
+epoch: 1 step: 46 loss: 0.828009843826294 train accuracy: 0.65625
+epoch: 1 step: 47 loss: 0.7145962119102478 train accuracy: 0.65625
+epoch: 1 step: 48 loss: 1.0696473121643066 train accuracy: 0.46875
+epoch: 1 step: 49 loss: 0.9619346261024475 train accuracy: 0.53125
+epoch: 1 step: 50 loss: 0.8547205328941345 train accuracy: 0.65625
+validation accuracy: 0.68
+epoch: 1 step: 51 loss: 0.8056018948554993 train accuracy: 0.65625
+epoch: 1 step: 52 loss: 0.8093448281288147 train accuracy: 0.625
+epoch: 1 step: 53 loss: 0.6720396280288696 train accuracy: 0.78125
+epoch: 1 step: 54 loss: 0.7277759909629822 train accuracy: 0.6875
+epoch: 1 step: 55 loss: 0.8082152009010315 train accuracy: 0.6875
+epoch: 1 step: 56 loss: 0.7433336973190308 train accuracy: 0.6875
+epoch: 1 step: 57 loss: 0.9994238018989563 train accuracy: 0.5
+epoch: 1 step: 58 loss: 0.8718209862709045 train accuracy: 0.625
+epoch: 1 step: 59 loss: 0.7973818182945251 train accuracy: 0.71875
+epoch: 1 step: 60 loss: 0.8294684886932373 train accuracy: 0.625
+validation accuracy: 0.702
+epoch: 1 step: 61 loss: 0.8341389894485474 train accuracy: 0.6875
+epoch: 1 step: 62 loss: 0.814958930015564 train accuracy: 0.53125
+epoch: 1 step: 63 loss: 0.762963593006134 train accuracy: 0.71875
+epoch: 1 step: 64 loss: 0.7707497477531433 train accuracy: 0.625
+epoch: 1 step: 65 loss: 0.9415416121482849 train accuracy: 0.5625
+epoch: 1 step: 66 loss: 0.7452050447463989 train accuracy: 0.78125
+epoch: 1 step: 67 loss: 0.7576150298118591 train accuracy: 0.65625
+epoch: 1 step: 68 loss: 0.9464951157569885 train accuracy: 0.53125
+epoch: 1 step: 69 loss: 0.847389280796051 train accuracy: 0.5625
+epoch: 1 step: 70 loss: 0.8105798959732056 train accuracy: 0.625
+validation accuracy: 0.706
+epoch: 1 step: 71 loss: 0.770962655544281 train accuracy: 0.6875
+epoch: 1 step: 72 loss: 0.685748279094696 train accuracy: 0.65625
+epoch: 1 step: 73 loss: 0.7297562956809998 train accuracy: 0.6875
+epoch: 1 step: 74 loss: 0.682141125202179 train accuracy: 0.75
+epoch: 1 step: 75 loss: 0.7532565593719482 train accuracy: 0.625
+epoch: 1 step: 76 loss: 0.8253487348556519 train accuracy: 0.65625
+epoch: 1 step: 77 loss: 0.7259383201599121 train accuracy: 0.6875
+epoch: 1 step: 78 loss: 0.7376759052276611 train accuracy: 0.75
+epoch: 1 step: 79 loss: 0.7617199420928955 train accuracy: 0.75
+epoch: 1 step: 80 loss: 0.5062255263328552 train accuracy: 0.84375
+validation accuracy: 0.718
+epoch: 1 step: 81 loss: 0.866742730140686 train accuracy: 0.625
+epoch: 1 step: 82 loss: 0.6525487303733826 train accuracy: 0.75
+epoch: 1 step: 83 loss: 0.8395237922668457 train accuracy: 0.6875
+epoch: 1 step: 84 loss: 0.5478386878967285 train accuracy: 0.75
+epoch: 1 step: 85 loss: 0.527127742767334 train accuracy: 0.78125
+epoch: 1 step: 86 loss: 0.8391652703285217 train accuracy: 0.59375
+epoch: 1 step: 87 loss: 0.6284612417221069 train accuracy: 0.78125
+epoch: 1 step: 88 loss: 0.5763265490531921 train accuracy: 0.6875
+epoch: 1 step: 89 loss: 0.96421879529953 train accuracy: 0.59375
+epoch: 1 step: 90 loss: 0.9263962507247925 train accuracy: 0.59375
+validation accuracy: 0.686
+epoch: 1 step: 91 loss: 0.8168759942054749 train accuracy: 0.65625
+epoch: 1 step: 92 loss: 0.8969486355781555 train accuracy: 0.5625
+epoch: 1 step: 93 loss: 0.7332028150558472 train accuracy: 0.625
+epoch: 1 step: 94 loss: 0.6074005365371704 train accuracy: 0.8125
+epoch: 1 step: 95 loss: 0.6043991446495056 train accuracy: 0.71875
+epoch: 1 step: 96 loss: 0.6797373294830322 train accuracy: 0.75
+epoch: 1 step: 97 loss: 0.7317628264427185 train accuracy: 0.65625
+epoch: 1 step: 98 loss: 0.959997296333313 train accuracy: 0.53125
+epoch: 1 step: 99 loss: 0.8100180625915527 train accuracy: 0.6875
+epoch: 1 step: 100 loss: 0.7919000387191772 train accuracy: 0.65625
+validation accuracy: 0.71
+epoch: 1 step: 101 loss: 0.6535500288009644 train accuracy: 0.78125
+epoch: 1 step: 102 loss: 0.7032687067985535 train accuracy: 0.71875
+epoch: 1 step: 103 loss: 0.5945807695388794 train accuracy: 0.875
+epoch: 1 step: 104 loss: 0.7795581817626953 train accuracy: 0.65625
+epoch: 1 step: 105 loss: 0.8008584976196289 train accuracy: 0.625
+epoch: 1 step: 106 loss: 0.7822507619857788 train accuracy: 0.65625
+epoch: 1 step: 107 loss: 0.6134918332099915 train accuracy: 0.78125
+epoch: 1 step: 108 loss: 0.724605917930603 train accuracy: 0.5625
+epoch: 1 step: 109 loss: 0.620665431022644 train accuracy: 0.8125
+epoch: 1 step: 110 loss: 0.5161718726158142 train accuracy: 0.75
+validation accuracy: 0.718
+epoch: 1 validation accuracy: 0.718
+saved the model as /root/ai_5/cache/model
+epoch: 2 step: 1 loss: 0.45757538080215454 train accuracy: 0.78125
+epoch: 2 step: 2 loss: 0.46027642488479614 train accuracy: 0.8125
+epoch: 2 step: 3 loss: 0.5722945332527161 train accuracy: 0.78125
+epoch: 2 step: 4 loss: 0.6200569868087769 train accuracy: 0.75
+epoch: 2 step: 5 loss: 0.5452545285224915 train accuracy: 0.78125
+epoch: 2 step: 6 loss: 0.718875527381897 train accuracy: 0.78125
+epoch: 2 step: 7 loss: 0.48164641857147217 train accuracy: 0.78125
+epoch: 2 step: 8 loss: 0.4046732783317566 train accuracy: 0.84375
+epoch: 2 step: 9 loss: 0.5494394302368164 train accuracy: 0.8125
+epoch: 2 step: 10 loss: 0.455025851726532 train accuracy: 0.78125
+validation accuracy: 0.712
+epoch: 2 step: 11 loss: 0.5692647099494934 train accuracy: 0.6875
+epoch: 2 step: 12 loss: 0.5430422425270081 train accuracy: 0.75
+epoch: 2 step: 13 loss: 0.7733826041221619 train accuracy: 0.6875
+epoch: 2 step: 14 loss: 0.8146858811378479 train accuracy: 0.625
+epoch: 2 step: 15 loss: 0.5059810280799866 train accuracy: 0.875
+epoch: 2 step: 16 loss: 0.5058990716934204 train accuracy: 0.78125
+epoch: 2 step: 17 loss: 0.6355941891670227 train accuracy: 0.75
+epoch: 2 step: 18 loss: 0.7286965847015381 train accuracy: 0.6875
+epoch: 2 step: 19 loss: 0.5802527666091919 train accuracy: 0.75
+epoch: 2 step: 20 loss: 0.5695241093635559 train accuracy: 0.8125
+validation accuracy: 0.708
+epoch: 2 step: 21 loss: 0.5505391359329224 train accuracy: 0.8125
+epoch: 2 step: 22 loss: 0.6336279511451721 train accuracy: 0.6875
+epoch: 2 step: 23 loss: 0.6294243335723877 train accuracy: 0.8125
+epoch: 2 step: 24 loss: 0.5033453106880188 train accuracy: 0.84375
+epoch: 2 step: 25 loss: 0.5031800270080566 train accuracy: 0.875
+epoch: 2 step: 26 loss: 0.8128265142440796 train accuracy: 0.59375
+epoch: 2 step: 27 loss: 0.6330165266990662 train accuracy: 0.78125
+epoch: 2 step: 28 loss: 0.7069047093391418 train accuracy: 0.71875
+epoch: 2 step: 29 loss: 0.7961905598640442 train accuracy: 0.71875
+epoch: 2 step: 30 loss: 0.4599694013595581 train accuracy: 0.8125
+validation accuracy: 0.722
+epoch: 2 step: 31 loss: 0.6992077231407166 train accuracy: 0.65625
+epoch: 2 step: 32 loss: 0.4680754840373993 train accuracy: 0.8125
+epoch: 2 step: 33 loss: 0.48210158944129944 train accuracy: 0.75
+epoch: 2 step: 34 loss: 0.503563642501831 train accuracy: 0.75
+epoch: 2 step: 35 loss: 0.6803629398345947 train accuracy: 0.71875
+epoch: 2 step: 36 loss: 0.5542161464691162 train accuracy: 0.78125
+epoch: 2 step: 37 loss: 0.4700496792793274 train accuracy: 0.84375
+epoch: 2 step: 38 loss: 0.41556987166404724 train accuracy: 0.875
+epoch: 2 step: 39 loss: 0.616935133934021 train accuracy: 0.71875
+epoch: 2 step: 40 loss: 0.4557538628578186 train accuracy: 0.84375
+validation accuracy: 0.734
+epoch: 2 step: 41 loss: 0.606897234916687 train accuracy: 0.6875
+epoch: 2 step: 42 loss: 0.38393649458885193 train accuracy: 0.78125
+epoch: 2 step: 43 loss: 0.825664758682251 train accuracy: 0.6875
+epoch: 2 step: 44 loss: 0.5242184400558472 train accuracy: 0.84375
+epoch: 2 step: 45 loss: 0.4620157778263092 train accuracy: 0.875
+epoch: 2 step: 46 loss: 0.5886198878288269 train accuracy: 0.78125
+epoch: 2 step: 47 loss: 0.45757102966308594 train accuracy: 0.8125
+epoch: 2 step: 48 loss: 0.4145597815513611 train accuracy: 0.875
+epoch: 2 step: 49 loss: 0.6211008429527283 train accuracy: 0.8125
+epoch: 2 step: 50 loss: 0.573482096195221 train accuracy: 0.6875
+validation accuracy: 0.692
+epoch: 2 step: 51 loss: 0.4304141700267792 train accuracy: 0.78125
+epoch: 2 step: 52 loss: 0.5707657337188721 train accuracy: 0.6875
+epoch: 2 step: 53 loss: 0.5766676664352417 train accuracy: 0.6875
+epoch: 2 step: 54 loss: 0.5299126505851746 train accuracy: 0.84375
+epoch: 2 step: 55 loss: 0.6287595629692078 train accuracy: 0.6875
+epoch: 2 step: 56 loss: 0.2623336613178253 train accuracy: 0.9375
+epoch: 2 step: 57 loss: 0.5563348531723022 train accuracy: 0.8125
+epoch: 2 step: 58 loss: 0.4202134609222412 train accuracy: 0.78125
+epoch: 2 step: 59 loss: 0.38421857357025146 train accuracy: 0.8125
+epoch: 2 step: 60 loss: 0.3935913145542145 train accuracy: 0.84375
+validation accuracy: 0.71
+epoch: 2 step: 61 loss: 0.8928753733634949 train accuracy: 0.65625
+epoch: 2 step: 62 loss: 0.5378850698471069 train accuracy: 0.8125
+epoch: 2 step: 63 loss: 0.47623661160469055 train accuracy: 0.78125
+epoch: 2 step: 64 loss: 0.4047025144100189 train accuracy: 0.875
+epoch: 2 step: 65 loss: 0.4008418321609497 train accuracy: 0.875
+epoch: 2 step: 66 loss: 0.5163251757621765 train accuracy: 0.78125
+epoch: 2 step: 67 loss: 0.4491313397884369 train accuracy: 0.90625
+epoch: 2 step: 68 loss: 0.6260442733764648 train accuracy: 0.78125
+epoch: 2 step: 69 loss: 0.6311942338943481 train accuracy: 0.8125
+epoch: 2 step: 70 loss: 0.5924371480941772 train accuracy: 0.75
+validation accuracy: 0.728
+epoch: 2 step: 71 loss: 0.4414466917514801 train accuracy: 0.84375
+epoch: 2 step: 72 loss: 0.4011845290660858 train accuracy: 0.8125
+epoch: 2 step: 73 loss: 0.46438518166542053 train accuracy: 0.9375
+epoch: 2 step: 74 loss: 0.5149776935577393 train accuracy: 0.78125
+epoch: 2 step: 75 loss: 0.5519155263900757 train accuracy: 0.71875
+epoch: 2 step: 76 loss: 0.512152373790741 train accuracy: 0.84375
+epoch: 2 step: 77 loss: 0.3448282778263092 train accuracy: 0.875
+epoch: 2 step: 78 loss: 0.5631614327430725 train accuracy: 0.8125
+epoch: 2 step: 79 loss: 0.2622620463371277 train accuracy: 0.9375
+epoch: 2 step: 80 loss: 0.5387927293777466 train accuracy: 0.8125
+validation accuracy: 0.728
+epoch: 2 step: 81 loss: 0.6571885943412781 train accuracy: 0.65625
+epoch: 2 step: 82 loss: 0.5111372470855713 train accuracy: 0.75
+epoch: 2 step: 83 loss: 0.6782150268554688 train accuracy: 0.71875
+epoch: 2 step: 84 loss: 0.716058611869812 train accuracy: 0.71875
+epoch: 2 step: 85 loss: 0.4110656976699829 train accuracy: 0.78125
+epoch: 2 step: 86 loss: 0.572672426700592 train accuracy: 0.78125
+epoch: 2 step: 87 loss: 0.5476809740066528 train accuracy: 0.78125
+epoch: 2 step: 88 loss: 0.5532389283180237 train accuracy: 0.75
+epoch: 2 step: 89 loss: 0.5459909439086914 train accuracy: 0.78125
+epoch: 2 step: 90 loss: 0.6376388669013977 train accuracy: 0.78125
+validation accuracy: 0.71
+epoch: 2 step: 91 loss: 0.5854529142379761 train accuracy: 0.65625
+epoch: 2 step: 92 loss: 0.5678030848503113 train accuracy: 0.8125
+epoch: 2 step: 93 loss: 0.46532317996025085 train accuracy: 0.875
+epoch: 2 step: 94 loss: 0.42610964179039 train accuracy: 0.8125
+epoch: 2 step: 95 loss: 0.35127755999565125 train accuracy: 0.84375
+epoch: 2 step: 96 loss: 0.6826004385948181 train accuracy: 0.75
+epoch: 2 step: 97 loss: 0.5310268998146057 train accuracy: 0.75
+epoch: 2 step: 98 loss: 0.6543389558792114 train accuracy: 0.71875
+epoch: 2 step: 99 loss: 0.4936823546886444 train accuracy: 0.75
+epoch: 2 step: 100 loss: 0.684441864490509 train accuracy: 0.6875
+validation accuracy: 0.72
+epoch: 2 step: 101 loss: 0.659972071647644 train accuracy: 0.71875
+epoch: 2 step: 102 loss: 0.5213419795036316 train accuracy: 0.75
+epoch: 2 step: 103 loss: 0.5534045696258545 train accuracy: 0.8125
+epoch: 2 step: 104 loss: 0.4956592917442322 train accuracy: 0.84375
+epoch: 2 step: 105 loss: 0.5050327777862549 train accuracy: 0.8125
+epoch: 2 step: 106 loss: 0.5768585801124573 train accuracy: 0.78125
+epoch: 2 step: 107 loss: 0.5697112083435059 train accuracy: 0.78125
+epoch: 2 step: 108 loss: 0.49260276556015015 train accuracy: 0.84375
+epoch: 2 step: 109 loss: 0.5376126170158386 train accuracy: 0.75
+epoch: 2 step: 110 loss: 0.2670438885688782 train accuracy: 0.9166666666666666
+validation accuracy: 0.73
+epoch: 2 validation accuracy: 0.73
+saved the model as /root/ai_5/cache/model
+epoch: 3 step: 1 loss: 0.25252723693847656 train accuracy: 0.90625
+epoch: 3 step: 2 loss: 0.444622665643692 train accuracy: 0.84375
+epoch: 3 step: 3 loss: 0.2018304318189621 train accuracy: 0.96875
+epoch: 3 step: 4 loss: 0.16153424978256226 train accuracy: 0.96875
+epoch: 3 step: 5 loss: 0.3023597002029419 train accuracy: 0.84375
+epoch: 3 step: 6 loss: 0.313949853181839 train accuracy: 0.875
+epoch: 3 step: 7 loss: 0.2644955515861511 train accuracy: 0.9375
+epoch: 3 step: 8 loss: 0.23616564273834229 train accuracy: 0.90625
+epoch: 3 step: 9 loss: 0.30797508358955383 train accuracy: 0.9375
+epoch: 3 step: 10 loss: 0.2530744671821594 train accuracy: 0.9375
+validation accuracy: 0.73
+epoch: 3 step: 11 loss: 0.37273359298706055 train accuracy: 0.875
+epoch: 3 step: 12 loss: 0.3984309732913971 train accuracy: 0.8125
+epoch: 3 step: 13 loss: 0.33143550157546997 train accuracy: 0.875
+epoch: 3 step: 14 loss: 0.25036922097206116 train accuracy: 0.9375
+epoch: 3 step: 15 loss: 0.31069228053092957 train accuracy: 0.875
+epoch: 3 step: 16 loss: 0.2664431631565094 train accuracy: 0.90625
+epoch: 3 step: 17 loss: 0.17425672709941864 train accuracy: 0.96875
+epoch: 3 step: 18 loss: 0.2374628633260727 train accuracy: 0.84375
+epoch: 3 step: 19 loss: 0.2929973900318146 train accuracy: 0.84375
+epoch: 3 step: 20 loss: 0.17183101177215576 train accuracy: 0.9375
+validation accuracy: 0.732
+epoch: 3 step: 21 loss: 0.2877141237258911 train accuracy: 0.90625
+epoch: 3 step: 22 loss: 0.16870246827602386 train accuracy: 0.9375
+epoch: 3 step: 23 loss: 0.44705644249916077 train accuracy: 0.84375
+epoch: 3 step: 24 loss: 0.14925408363342285 train accuracy: 0.96875
+epoch: 3 step: 25 loss: 0.2890987992286682 train accuracy: 0.9375
+epoch: 3 step: 26 loss: 0.20325316488742828 train accuracy: 0.96875
+epoch: 3 step: 27 loss: 0.2885173261165619 train accuracy: 0.9375
+epoch: 3 step: 28 loss: 0.27622517943382263 train accuracy: 0.90625
+epoch: 3 step: 29 loss: 0.39713254570961 train accuracy: 0.84375
+epoch: 3 step: 30 loss: 0.4440861940383911 train accuracy: 0.875
+validation accuracy: 0.736
+epoch: 3 step: 31 loss: 0.1925593912601471 train accuracy: 0.9375
+epoch: 3 step: 32 loss: 0.3114851415157318 train accuracy: 0.8125
+epoch: 3 step: 33 loss: 0.25301629304885864 train accuracy: 0.90625
+epoch: 3 step: 34 loss: 0.13473473489284515 train accuracy: 0.96875
+epoch: 3 step: 35 loss: 0.19151175022125244 train accuracy: 0.9375
+epoch: 3 step: 36 loss: 0.14235158264636993 train accuracy: 0.96875
+epoch: 3 step: 37 loss: 0.16358782351016998 train accuracy: 0.9375
+epoch: 3 step: 38 loss: 0.26611265540122986 train accuracy: 0.90625
+epoch: 3 step: 39 loss: 0.09620898962020874 train accuracy: 0.96875
+epoch: 3 step: 40 loss: 0.28074386715888977 train accuracy: 0.90625
+validation accuracy: 0.718
+epoch: 3 step: 41 loss: 0.20107360184192657 train accuracy: 0.90625
+epoch: 3 step: 42 loss: 0.37577587366104126 train accuracy: 0.84375
+epoch: 3 step: 43 loss: 0.1398627758026123 train accuracy: 0.96875
+epoch: 3 step: 44 loss: 0.3715874254703522 train accuracy: 0.875
+epoch: 3 step: 45 loss: 0.387775719165802 train accuracy: 0.84375
+epoch: 3 step: 46 loss: 0.15851350128650665 train accuracy: 0.9375
+epoch: 3 step: 47 loss: 0.310270756483078 train accuracy: 0.84375
+epoch: 3 step: 48 loss: 0.35801181197166443 train accuracy: 0.84375
+epoch: 3 step: 49 loss: 0.3199617564678192 train accuracy: 0.875
+epoch: 3 step: 50 loss: 0.40434324741363525 train accuracy: 0.78125
+validation accuracy: 0.726
+epoch: 3 step: 51 loss: 0.20264728367328644 train accuracy: 0.96875
+epoch: 3 step: 52 loss: 0.21511219441890717 train accuracy: 0.96875
+epoch: 3 step: 53 loss: 0.14877571165561676 train accuracy: 0.96875
+epoch: 3 step: 54 loss: 0.3418181836605072 train accuracy: 0.875
+epoch: 3 step: 55 loss: 0.217573881149292 train accuracy: 0.96875
+epoch: 3 step: 56 loss: 0.3318887948989868 train accuracy: 0.90625
+epoch: 3 step: 57 loss: 0.243040069937706 train accuracy: 0.875
+epoch: 3 step: 58 loss: 0.2164919376373291 train accuracy: 0.90625
+epoch: 3 step: 59 loss: 0.46120500564575195 train accuracy: 0.875
+epoch: 3 step: 60 loss: 0.5011530518531799 train accuracy: 0.84375
+validation accuracy: 0.712
+epoch: 3 step: 61 loss: 0.2840439975261688 train accuracy: 0.875
+epoch: 3 step: 62 loss: 0.4152347147464752 train accuracy: 0.90625
+epoch: 3 step: 63 loss: 0.6070125102996826 train accuracy: 0.8125
+epoch: 3 step: 64 loss: 0.23667271435260773 train accuracy: 0.96875
+epoch: 3 step: 65 loss: 0.2797463834285736 train accuracy: 0.875
+epoch: 3 step: 66 loss: 0.12921574711799622 train accuracy: 1.0
+epoch: 3 step: 67 loss: 0.26771417260169983 train accuracy: 0.875
+epoch: 3 step: 68 loss: 0.25752541422843933 train accuracy: 0.9375
+epoch: 3 step: 69 loss: 0.1894654929637909 train accuracy: 0.9375
+epoch: 3 step: 70 loss: 0.5277547836303711 train accuracy: 0.78125
+validation accuracy: 0.732
+epoch: 3 step: 71 loss: 0.39843785762786865 train accuracy: 0.8125
+epoch: 3 step: 72 loss: 0.16830584406852722 train accuracy: 1.0
+epoch: 3 step: 73 loss: 0.3471504747867584 train accuracy: 0.84375
+epoch: 3 step: 74 loss: 0.4339401423931122 train accuracy: 0.875
+epoch: 3 step: 75 loss: 0.42588314414024353 train accuracy: 0.8125
+epoch: 3 step: 76 loss: 0.3790874779224396 train accuracy: 0.875
+epoch: 3 step: 77 loss: 0.2960677742958069 train accuracy: 0.875
+epoch: 3 step: 78 loss: 0.22366678714752197 train accuracy: 0.9375
+epoch: 3 step: 79 loss: 0.24499164521694183 train accuracy: 0.9375
+epoch: 3 step: 80 loss: 0.20526045560836792 train accuracy: 0.90625
+validation accuracy: 0.738
+epoch: 3 step: 81 loss: 0.25898462533950806 train accuracy: 0.875
+epoch: 3 step: 82 loss: 0.23072092235088348 train accuracy: 0.875
+epoch: 3 step: 83 loss: 0.5819733142852783 train accuracy: 0.78125
+epoch: 3 step: 84 loss: 0.4596855342388153 train accuracy: 0.71875
+epoch: 3 step: 85 loss: 0.24706563353538513 train accuracy: 0.90625
+epoch: 3 step: 86 loss: 0.2834707200527191 train accuracy: 0.9375
+epoch: 3 step: 87 loss: 0.21573427319526672 train accuracy: 0.9375
+epoch: 3 step: 88 loss: 0.14736272394657135 train accuracy: 0.9375
+epoch: 3 step: 89 loss: 0.21934586763381958 train accuracy: 0.875
+epoch: 3 step: 90 loss: 0.37352365255355835 train accuracy: 0.9375
+validation accuracy: 0.734
+epoch: 3 step: 91 loss: 0.1380225419998169 train accuracy: 0.96875
+epoch: 3 step: 92 loss: 0.5606863498687744 train accuracy: 0.71875
+epoch: 3 step: 93 loss: 0.31958523392677307 train accuracy: 0.84375
+epoch: 3 step: 94 loss: 0.23913951218128204 train accuracy: 0.875
+epoch: 3 step: 95 loss: 0.28721868991851807 train accuracy: 0.90625
+epoch: 3 step: 96 loss: 0.26817741990089417 train accuracy: 0.84375
+epoch: 3 step: 97 loss: 0.4367693066596985 train accuracy: 0.84375
+epoch: 3 step: 98 loss: 0.28644269704818726 train accuracy: 0.90625
+epoch: 3 step: 99 loss: 0.3038824498653412 train accuracy: 0.875
+epoch: 3 step: 100 loss: 0.3901578187942505 train accuracy: 0.90625
+validation accuracy: 0.732
+epoch: 3 step: 101 loss: 0.4425235986709595 train accuracy: 0.90625
+epoch: 3 step: 102 loss: 0.2484576404094696 train accuracy: 0.90625
+epoch: 3 step: 103 loss: 0.15270942449569702 train accuracy: 0.96875
+epoch: 3 step: 104 loss: 0.4353012442588806 train accuracy: 0.875
+epoch: 3 step: 105 loss: 0.48542729020118713 train accuracy: 0.84375
+epoch: 3 step: 106 loss: 0.23776133358478546 train accuracy: 0.90625
+epoch: 3 step: 107 loss: 0.4193213880062103 train accuracy: 0.875
+epoch: 3 step: 108 loss: 0.31125950813293457 train accuracy: 0.84375
+epoch: 3 step: 109 loss: 0.2512705326080322 train accuracy: 0.9375
+epoch: 3 step: 110 loss: 0.18805651366710663 train accuracy: 1.0
+validation accuracy: 0.716
+epoch: 3 validation accuracy: 0.716
+epoch: 4 step: 1 loss: 0.2598167657852173 train accuracy: 0.84375
+epoch: 4 step: 2 loss: 0.15029357373714447 train accuracy: 0.96875
+epoch: 4 step: 3 loss: 0.12220374494791031 train accuracy: 1.0
+epoch: 4 step: 4 loss: 0.12516988813877106 train accuracy: 1.0
+epoch: 4 step: 5 loss: 0.1353428214788437 train accuracy: 0.96875
+epoch: 4 step: 6 loss: 0.18035195767879486 train accuracy: 0.90625
+epoch: 4 step: 7 loss: 0.20632849633693695 train accuracy: 0.875
+epoch: 4 step: 8 loss: 0.09409855306148529 train accuracy: 0.96875
+epoch: 4 step: 9 loss: 0.13822706043720245 train accuracy: 0.96875
+epoch: 4 step: 10 loss: 0.24978391826152802 train accuracy: 0.90625
+validation accuracy: 0.714
+epoch: 4 step: 11 loss: 0.14108076691627502 train accuracy: 1.0
+epoch: 4 step: 12 loss: 0.10920770466327667 train accuracy: 1.0
+epoch: 4 step: 13 loss: 0.13630546629428864 train accuracy: 0.9375
+epoch: 4 step: 14 loss: 0.18730905652046204 train accuracy: 0.90625
+epoch: 4 step: 15 loss: 0.06433404237031937 train accuracy: 1.0
+epoch: 4 step: 16 loss: 0.16033054888248444 train accuracy: 0.9375
+epoch: 4 step: 17 loss: 0.07362858206033707 train accuracy: 1.0
+epoch: 4 step: 18 loss: 0.19323354959487915 train accuracy: 0.96875
+epoch: 4 step: 19 loss: 0.05197281762957573 train accuracy: 1.0
+epoch: 4 step: 20 loss: 0.1647980809211731 train accuracy: 0.9375
+validation accuracy: 0.72
+epoch: 4 step: 21 loss: 0.11963898688554764 train accuracy: 0.9375
+epoch: 4 step: 22 loss: 0.05161428824067116 train accuracy: 1.0
+epoch: 4 step: 23 loss: 0.09548887610435486 train accuracy: 1.0
+epoch: 4 step: 24 loss: 0.12842412292957306 train accuracy: 0.96875
+epoch: 4 step: 25 loss: 0.13886378705501556 train accuracy: 0.96875
+epoch: 4 step: 26 loss: 0.03257050737738609 train accuracy: 1.0
+epoch: 4 step: 27 loss: 0.09227976202964783 train accuracy: 0.96875
+epoch: 4 step: 28 loss: 0.2023877650499344 train accuracy: 0.9375
+epoch: 4 step: 29 loss: 0.020528851076960564 train accuracy: 1.0
+epoch: 4 step: 30 loss: 0.05411286652088165 train accuracy: 1.0
+validation accuracy: 0.734
+epoch: 4 step: 31 loss: 0.18902620673179626 train accuracy: 0.84375
+epoch: 4 step: 32 loss: 0.10946741700172424 train accuracy: 0.96875
+epoch: 4 step: 33 loss: 0.1840122640132904 train accuracy: 0.9375
+epoch: 4 step: 34 loss: 0.12859494984149933 train accuracy: 0.96875
+epoch: 4 step: 35 loss: 0.04681607708334923 train accuracy: 1.0
+epoch: 4 step: 36 loss: 0.17220470309257507 train accuracy: 0.9375
+epoch: 4 step: 37 loss: 0.07517398148775101 train accuracy: 1.0
+epoch: 4 step: 38 loss: 0.1448717564344406 train accuracy: 0.9375
+epoch: 4 step: 39 loss: 0.1181870549917221 train accuracy: 0.96875
+epoch: 4 step: 40 loss: 0.1270945519208908 train accuracy: 0.9375
+validation accuracy: 0.718
+epoch: 4 step: 41 loss: 0.06147167459130287 train accuracy: 1.0
+epoch: 4 step: 42 loss: 0.1800529509782791 train accuracy: 0.90625
+epoch: 4 step: 43 loss: 0.07775922119617462 train accuracy: 1.0
+epoch: 4 step: 44 loss: 0.07685300707817078 train accuracy: 1.0
+epoch: 4 step: 45 loss: 0.1126936823129654 train accuracy: 0.96875
+epoch: 4 step: 46 loss: 0.12093191593885422 train accuracy: 0.96875
+epoch: 4 step: 47 loss: 0.06747525185346603 train accuracy: 1.0
+epoch: 4 step: 48 loss: 0.20442210137844086 train accuracy: 0.9375
+epoch: 4 step: 49 loss: 0.10280252248048782 train accuracy: 0.96875
+epoch: 4 step: 50 loss: 0.16222991049289703 train accuracy: 0.96875
+validation accuracy: 0.714
+epoch: 4 step: 51 loss: 0.1512674242258072 train accuracy: 0.96875
+epoch: 4 step: 52 loss: 0.19865688681602478 train accuracy: 0.875
+epoch: 4 step: 53 loss: 0.11953219771385193 train accuracy: 0.96875
+epoch: 4 step: 54 loss: 0.15489493310451508 train accuracy: 0.90625
+epoch: 4 step: 55 loss: 0.08687786012887955 train accuracy: 1.0
+epoch: 4 step: 56 loss: 0.27093636989593506 train accuracy: 0.875
+epoch: 4 step: 57 loss: 0.11645854264497757 train accuracy: 0.96875
+epoch: 4 step: 58 loss: 0.05168812721967697 train accuracy: 0.96875
+epoch: 4 step: 59 loss: 0.1288289874792099 train accuracy: 0.9375
+epoch: 4 step: 60 loss: 0.09835150092840195 train accuracy: 0.9375
+validation accuracy: 0.736
+epoch: 4 step: 61 loss: 0.11132004857063293 train accuracy: 0.96875
+epoch: 4 step: 62 loss: 0.19326578080654144 train accuracy: 0.90625
+epoch: 4 step: 63 loss: 0.1534794270992279 train accuracy: 0.9375
+epoch: 4 step: 64 loss: 0.06136506050825119 train accuracy: 1.0
+epoch: 4 step: 65 loss: 0.14526399970054626 train accuracy: 0.9375
+epoch: 4 step: 66 loss: 0.15661022067070007 train accuracy: 0.9375
+epoch: 4 step: 67 loss: 0.07429756969213486 train accuracy: 0.96875
+epoch: 4 step: 68 loss: 0.06405554711818695 train accuracy: 0.96875
+epoch: 4 step: 69 loss: 0.14164204895496368 train accuracy: 0.9375
+epoch: 4 step: 70 loss: 0.09961380809545517 train accuracy: 0.96875
+validation accuracy: 0.736
+epoch: 4 step: 71 loss: 0.16554442048072815 train accuracy: 0.96875
+epoch: 4 step: 72 loss: 0.17378710210323334 train accuracy: 0.96875
+epoch: 4 step: 73 loss: 0.16421210765838623 train accuracy: 0.9375
+epoch: 4 step: 74 loss: 0.18088750541210175 train accuracy: 0.9375
+epoch: 4 step: 75 loss: 0.09180641919374466 train accuracy: 0.96875
+epoch: 4 step: 76 loss: 0.13470467925071716 train accuracy: 0.96875
+epoch: 4 step: 77 loss: 0.15075306594371796 train accuracy: 0.9375
+epoch: 4 step: 78 loss: 0.2983020842075348 train accuracy: 0.90625
+epoch: 4 step: 79 loss: 0.10919419676065445 train accuracy: 0.9375
+epoch: 4 step: 80 loss: 0.05063317343592644 train accuracy: 1.0
+validation accuracy: 0.714
+epoch: 4 step: 81 loss: 0.18752527236938477 train accuracy: 0.96875
+epoch: 4 step: 82 loss: 0.12911583483219147 train accuracy: 0.90625
+epoch: 4 step: 83 loss: 0.07222361862659454 train accuracy: 1.0
+epoch: 4 step: 84 loss: 0.16238796710968018 train accuracy: 0.96875
+epoch: 4 step: 85 loss: 0.15486650168895721 train accuracy: 0.9375
+epoch: 4 step: 86 loss: 0.15252938866615295 train accuracy: 0.9375
+epoch: 4 step: 87 loss: 0.10528507083654404 train accuracy: 1.0
+epoch: 4 step: 88 loss: 0.17039690911769867 train accuracy: 0.9375
+epoch: 4 step: 89 loss: 0.12225450575351715 train accuracy: 0.9375
+epoch: 4 step: 90 loss: 0.09815755486488342 train accuracy: 0.96875
+validation accuracy: 0.74
+epoch: 4 step: 91 loss: 0.11424790322780609 train accuracy: 0.96875
+epoch: 4 step: 92 loss: 0.217744842171669 train accuracy: 0.90625
+epoch: 4 step: 93 loss: 0.27467605471611023 train accuracy: 0.9375
+epoch: 4 step: 94 loss: 0.05181789770722389 train accuracy: 1.0
+epoch: 4 step: 95 loss: 0.05963822454214096 train accuracy: 1.0
+epoch: 4 step: 96 loss: 0.1123884841799736 train accuracy: 0.9375
+epoch: 4 step: 97 loss: 0.147335022687912 train accuracy: 0.9375
+epoch: 4 step: 98 loss: 0.10783360153436661 train accuracy: 0.9375
+epoch: 4 step: 99 loss: 0.05490342527627945 train accuracy: 1.0
+epoch: 4 step: 100 loss: 0.10685715824365616 train accuracy: 0.96875
+validation accuracy: 0.72
+epoch: 4 step: 101 loss: 0.13164281845092773 train accuracy: 0.96875
+epoch: 4 step: 102 loss: 0.20611512660980225 train accuracy: 0.90625
+epoch: 4 step: 103 loss: 0.24716632068157196 train accuracy: 0.9375
+epoch: 4 step: 104 loss: 0.0897299274802208 train accuracy: 0.96875
+epoch: 4 step: 105 loss: 0.15102291107177734 train accuracy: 0.9375
+epoch: 4 step: 106 loss: 0.04803922772407532 train accuracy: 0.96875
+epoch: 4 step: 107 loss: 0.04523559287190437 train accuracy: 1.0
+epoch: 4 step: 108 loss: 0.08670423924922943 train accuracy: 1.0
+epoch: 4 step: 109 loss: 0.16896209120750427 train accuracy: 0.9375
+epoch: 4 step: 110 loss: 0.06747821718454361 train accuracy: 1.0
+validation accuracy: 0.734
+epoch: 4 validation accuracy: 0.734
+saved the model as /root/ai_5/cache/model
+epoch: 5 step: 1 loss: 0.12262452393770218 train accuracy: 0.96875
+epoch: 5 step: 2 loss: 0.034129753708839417 train accuracy: 1.0
+epoch: 5 step: 3 loss: 0.035413384437561035 train accuracy: 1.0
+epoch: 5 step: 4 loss: 0.06197584792971611 train accuracy: 0.96875
+epoch: 5 step: 5 loss: 0.030039137229323387 train accuracy: 1.0
+epoch: 5 step: 6 loss: 0.04933341220021248 train accuracy: 0.96875
+epoch: 5 step: 7 loss: 0.008552766405045986 train accuracy: 1.0
+epoch: 5 step: 8 loss: 0.04322653263807297 train accuracy: 1.0
+epoch: 5 step: 9 loss: 0.02443314716219902 train accuracy: 1.0
+epoch: 5 step: 10 loss: 0.025262461975216866 train accuracy: 1.0
+validation accuracy: 0.734
+epoch: 5 step: 11 loss: 0.020721806213259697 train accuracy: 1.0
+epoch: 5 step: 12 loss: 0.022347839549183846 train accuracy: 1.0
+epoch: 5 step: 13 loss: 0.03526172414422035 train accuracy: 1.0
+epoch: 5 step: 14 loss: 0.02150614745914936 train accuracy: 1.0
+epoch: 5 step: 15 loss: 0.025910845026373863 train accuracy: 1.0
+epoch: 5 step: 16 loss: 0.014675314538180828 train accuracy: 1.0
+epoch: 5 step: 17 loss: 0.02091955579817295 train accuracy: 1.0
+epoch: 5 step: 18 loss: 0.022998405620455742 train accuracy: 1.0
+epoch: 5 step: 19 loss: 0.017289459705352783 train accuracy: 1.0
+epoch: 5 step: 20 loss: 0.019918086007237434 train accuracy: 1.0
+validation accuracy: 0.722
+epoch: 5 step: 21 loss: 0.013389094732701778 train accuracy: 1.0
+epoch: 5 step: 22 loss: 0.03937165439128876 train accuracy: 1.0
+epoch: 5 step: 23 loss: 0.09996102750301361 train accuracy: 0.96875
+epoch: 5 step: 24 loss: 0.055156461894512177 train accuracy: 0.96875
+epoch: 5 step: 25 loss: 0.03310234472155571 train accuracy: 1.0
+epoch: 5 step: 26 loss: 0.15344499051570892 train accuracy: 0.9375
+epoch: 5 step: 27 loss: 0.20255394279956818 train accuracy: 0.90625
+epoch: 5 step: 28 loss: 0.048262596130371094 train accuracy: 1.0
+epoch: 5 step: 29 loss: 0.25993144512176514 train accuracy: 0.90625
+epoch: 5 step: 30 loss: 0.08291106671094894 train accuracy: 0.96875
+validation accuracy: 0.726
+epoch: 5 step: 31 loss: 0.12461073696613312 train accuracy: 0.96875
+epoch: 5 step: 32 loss: 0.055842138826847076 train accuracy: 0.96875
+epoch: 5 step: 33 loss: 0.020169192925095558 train accuracy: 1.0
+epoch: 5 step: 34 loss: 0.10518540441989899 train accuracy: 0.96875
+epoch: 5 step: 35 loss: 0.039659660309553146 train accuracy: 1.0
+epoch: 5 step: 36 loss: 0.05380511283874512 train accuracy: 0.96875
+epoch: 5 step: 37 loss: 0.12779146432876587 train accuracy: 0.96875
+epoch: 5 step: 38 loss: 0.02312021702528 train accuracy: 1.0
+epoch: 5 step: 39 loss: 0.02971481904387474 train accuracy: 1.0
+epoch: 5 step: 40 loss: 0.029810260981321335 train accuracy: 1.0
+validation accuracy: 0.736
+epoch: 5 step: 41 loss: 0.08996612578630447 train accuracy: 0.96875
+epoch: 5 step: 42 loss: 0.07584691047668457 train accuracy: 1.0
+epoch: 5 step: 43 loss: 0.058570001274347305 train accuracy: 0.96875
+epoch: 5 step: 44 loss: 0.042986515909433365 train accuracy: 1.0
+epoch: 5 step: 45 loss: 0.032300736755132675 train accuracy: 1.0
+epoch: 5 step: 46 loss: 0.0904710441827774 train accuracy: 0.96875
+epoch: 5 step: 47 loss: 0.11968161165714264 train accuracy: 0.96875
+epoch: 5 step: 48 loss: 0.0482860766351223 train accuracy: 1.0
+epoch: 5 step: 49 loss: 0.22716525197029114 train accuracy: 0.90625
+epoch: 5 step: 50 loss: 0.1137947216629982 train accuracy: 0.96875
+validation accuracy: 0.738
+epoch: 5 step: 51 loss: 0.029434481635689735 train accuracy: 1.0
+epoch: 5 step: 52 loss: 0.03762223944067955 train accuracy: 1.0
+epoch: 5 step: 53 loss: 0.05271894857287407 train accuracy: 1.0
+epoch: 5 step: 54 loss: 0.04559791460633278 train accuracy: 1.0
+epoch: 5 step: 55 loss: 0.05119628086686134 train accuracy: 0.96875
+epoch: 5 step: 56 loss: 0.01798280142247677 train accuracy: 1.0
+epoch: 5 step: 57 loss: 0.10753270983695984 train accuracy: 0.96875
+epoch: 5 step: 58 loss: 0.05569939687848091 train accuracy: 0.96875
+epoch: 5 step: 59 loss: 0.009637742303311825 train accuracy: 1.0
+epoch: 5 step: 60 loss: 0.02767578698694706 train accuracy: 1.0
+validation accuracy: 0.738
+epoch: 5 step: 61 loss: 0.02445388399064541 train accuracy: 1.0
+epoch: 5 step: 62 loss: 0.017143115401268005 train accuracy: 1.0
+epoch: 5 step: 63 loss: 0.05639141798019409 train accuracy: 0.96875
+epoch: 5 step: 64 loss: 0.05662888288497925 train accuracy: 1.0
+epoch: 5 step: 65 loss: 0.05937701836228371 train accuracy: 1.0
+epoch: 5 step: 66 loss: 0.028154583647847176 train accuracy: 1.0
+epoch: 5 step: 67 loss: 0.0863453820347786 train accuracy: 0.96875
+epoch: 5 step: 68 loss: 0.018614275380969048 train accuracy: 1.0
+epoch: 5 step: 69 loss: 0.0293422918766737 train accuracy: 1.0
+epoch: 5 step: 70 loss: 0.03436030447483063 train accuracy: 1.0
+validation accuracy: 0.734
+epoch: 5 step: 71 loss: 0.2534467875957489 train accuracy: 0.96875
+epoch: 5 step: 72 loss: 0.010275153443217278 train accuracy: 1.0
+epoch: 5 step: 73 loss: 0.014255385845899582 train accuracy: 1.0
+epoch: 5 step: 74 loss: 0.15604622662067413 train accuracy: 0.96875
+epoch: 5 step: 75 loss: 0.01077394187450409 train accuracy: 1.0
+epoch: 5 step: 76 loss: 0.04166456684470177 train accuracy: 1.0
+epoch: 5 step: 77 loss: 0.026569537818431854 train accuracy: 1.0
+epoch: 5 step: 78 loss: 0.01306649949401617 train accuracy: 1.0
+epoch: 5 step: 79 loss: 0.028229445219039917 train accuracy: 1.0
+epoch: 5 step: 80 loss: 0.02635641023516655 train accuracy: 1.0
+validation accuracy: 0.734
+epoch: 5 step: 81 loss: 0.04895889014005661 train accuracy: 0.96875
+epoch: 5 step: 82 loss: 0.11939826607704163 train accuracy: 0.96875
+epoch: 5 step: 83 loss: 0.028038255870342255 train accuracy: 1.0
+epoch: 5 step: 84 loss: 0.05949057266116142 train accuracy: 1.0
+epoch: 5 step: 85 loss: 0.026379602029919624 train accuracy: 1.0
+epoch: 5 step: 86 loss: 0.11693530529737473 train accuracy: 0.9375
+epoch: 5 step: 87 loss: 0.016273343935608864 train accuracy: 1.0
+epoch: 5 step: 88 loss: 0.04276300594210625 train accuracy: 1.0
+epoch: 5 step: 89 loss: 0.05527525767683983 train accuracy: 0.96875
+epoch: 5 step: 90 loss: 0.01875658705830574 train accuracy: 1.0
+validation accuracy: 0.734
+epoch: 5 step: 91 loss: 0.06901588290929794 train accuracy: 0.96875
+epoch: 5 step: 92 loss: 0.04039306193590164 train accuracy: 1.0
+epoch: 5 step: 93 loss: 0.019819924607872963 train accuracy: 1.0
+epoch: 5 step: 94 loss: 0.0673915222287178 train accuracy: 0.96875
+epoch: 5 step: 95 loss: 0.12851442396640778 train accuracy: 0.96875
+epoch: 5 step: 96 loss: 0.019984297454357147 train accuracy: 1.0
+epoch: 5 step: 97 loss: 0.020831188187003136 train accuracy: 1.0
+epoch: 5 step: 98 loss: 0.12914800643920898 train accuracy: 0.96875
+epoch: 5 step: 99 loss: 0.008356593549251556 train accuracy: 1.0
+epoch: 5 step: 100 loss: 0.015528603456914425 train accuracy: 1.0
+validation accuracy: 0.736
+epoch: 5 step: 101 loss: 0.02535375766456127 train accuracy: 1.0
+epoch: 5 step: 102 loss: 0.020399320870637894 train accuracy: 1.0
+epoch: 5 step: 103 loss: 0.0341491624712944 train accuracy: 0.96875
+epoch: 5 step: 104 loss: 0.055576350539922714 train accuracy: 1.0
+epoch: 5 step: 105 loss: 0.16075322031974792 train accuracy: 0.9375
+epoch: 5 step: 106 loss: 0.15663555264472961 train accuracy: 0.96875
+epoch: 5 step: 107 loss: 0.033863648772239685 train accuracy: 0.96875
+epoch: 5 step: 108 loss: 0.023143267259001732 train accuracy: 1.0
+epoch: 5 step: 109 loss: 0.0682099461555481 train accuracy: 0.96875
+epoch: 5 step: 110 loss: 0.3335418403148651 train accuracy: 0.9166666666666666
+validation accuracy: 0.736
+epoch: 5 validation accuracy: 0.736
+saved the model as /root/ai_5/cache/model
+final validation accuracy: 0.736
