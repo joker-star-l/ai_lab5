@@ -20,30 +20,30 @@ pip install -r requirements.txt
 ## 代码结构
 
 ```
-|-- data/								# 数据
-    |-- input/							# 预处理后的数据
-        |-- dataUtil.py					# 预处理文件
-        |-- test_data.json				# 预处理后的测试数据
-        |-- train_data.json				# 预处理后的训练数据
-    |-- raw/							# 原始数据
-    |-- test_without_label.txt			# 测试数据guid和空标签
-    |-- train.txt						# 训练数据guid和标签
-|-- img/								# 图片处理相关文件
-    |-- imgConfig.py					# 图片配置文件
-    |-- imgDataset.py					# 数据集生成器
-    |-- vit.py							# ViT
-|-- result/								# 日志和预测文件
-|-- text/								# 文本处理相关文件
-    |-- bert.py							# BERT
-    |-- textConfig.py					# 文本配置文件
-    |-- textDataset.py					# 数据集生成器
-|-- config.py							# 总配置文件
-|-- imgClassification.py				# 模型（仅图片）
-|-- multiClassification.py				# 模型（多模态）
-|-- multiDataset.py						# 数据集生成器
-|-- run.py								# 运行入口文件
-|-- runUtil.py							# 训练等工具方法
-|-- textClassification.py				# 模型（仅文本）
+|-- data/                               # 数据
+    |-- input/                          # 预处理后的数据
+        |-- dataUtil.py                 # 预处理文件
+        |-- test_data.json              # 预处理后的测试数据
+        |-- train_data.json             # 预处理后的训练数据
+    |-- raw/                            # 原始数据
+    |-- test_without_label.txt          # 测试数据guid和空标签
+    |-- train.txt                       # 训练数据guid和标签
+|-- img/                                # 图片处理相关文件
+    |-- imgConfig.py                    # 图片配置文件
+    |-- imgDataset.py                   # 数据集生成器
+    |-- vit.py                          # ViT
+|-- result/                             # 日志和预测文件
+|-- text/                               # 文本处理相关文件
+    |-- bert.py                         # BERT
+    |-- textConfig.py                   # 文本配置文件
+    |-- textDataset.py                  # 数据集生成器
+|-- config.py                           # 总配置文件
+|-- imgClassification.py                # 模型（仅图片）
+|-- multiClassification.py              # 模型（多模态）
+|-- multiDataset.py                     # 数据集生成器
+|-- run.py                              # 运行入口文件
+|-- runUtil.py                          # 训练等工具方法
+|-- textClassification.py               # 模型（仅文本）
 ```
 
 ## 代码在实验数据集上的运行流程
