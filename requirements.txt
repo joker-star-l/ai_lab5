@@ -1,0 +1,4 @@
+numpy==1.19.5
+Pillow==9.1.0
+torch==1.11.0
+transformers==4.19.3
